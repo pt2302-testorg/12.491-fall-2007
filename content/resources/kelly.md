@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of a student term paper: Proterozoic Sulfur Cycle: The Rise
   of Oxygen.'
 file: /courses/12-491-biogeochemistry-of-sulfur-fall-2007/3b9c002b79342dd81b4ad0a3510675ab_kelly.pdf
+file_size: 246537
 file_type: application/pdf
 learning_resource_types:
 - Projects

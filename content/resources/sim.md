@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of a student term paper: Sulfur Isotope Fractionation during
   the Thiosulfate Disproportionation Reaction.'
 file: /courses/12-491-biogeochemistry-of-sulfur-fall-2007/d1bf4d5561ce0517a1ff306b607a526d_sim.pdf
+file_size: 670586
 file_type: application/pdf
 learning_resource_types:
 - Projects
